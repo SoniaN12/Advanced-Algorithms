@@ -1,0 +1,11 @@
+algorithm,scenario,source_node,nearest_hospital_node,nearest_hospital_name,distance_m,runtime_ms,memory_kb,expanded_nodes,matches_baseline
+Dijkstra,"Potsdam Hauptbahnhof, Potsdam, Germany",3145608328,1299518332,Klinikum Ernst von Bergmann,2312.461,41.969,-320.0,0,False
+A*,"Potsdam Hauptbahnhof, Potsdam, Germany",3145608328,1299518332,Klinikum Ernst von Bergmann,2312.461,1810.148,8516.0,0,False
+Dijkstra,"Brandenburger Tor, Potsdam, Germany",244396635,2358300008,St.-Josefs-Krankenhaus,376.65,1.631,4.0,0,True
+A*,"Brandenburger Tor, Potsdam, Germany",244396635,2358300008,St.-Josefs-Krankenhaus,376.65,1647.15,1196.0,0,True
+Dijkstra,"Sanssouci Palace, Potsdam, Germany",621723438,2358300008,St.-Josefs-Krankenhaus,1146.858,7.196,4.0,0,True
+A*,"Sanssouci Palace, Potsdam, Germany",621723438,2358300008,St.-Josefs-Krankenhaus,1146.858,1681.504,2616.0,0,True
+Dijkstra,"Holländisches Viertel, Potsdam, Germany",30566754,1299518332,Klinikum Ernst von Bergmann,807.906,7.922,0.0,0,False
+A*,"Holländisches Viertel, Potsdam, Germany",30566754,1299518332,Klinikum Ernst von Bergmann,807.906,1556.836,-120.0,0,False
+Dijkstra,"Babelsberg Park, Potsdam, Germany",30891485,9621826768,Oberlinklinik,999.721,4.668,48.0,0,True
+A*,"Babelsberg Park, Potsdam, Germany",30891485,9621826768,Oberlinklinik,999.721,1568.671,-724.0,0,True
